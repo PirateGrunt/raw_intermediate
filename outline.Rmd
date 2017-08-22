@@ -1,0 +1,9 @@
+---
+---
+
+* More fun with functions
+* RMarkdwon
+* Packages
+  * Why? 
+    * Internal company functions
+    * Your own utilities
